@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">A passionate full-stack developer from London</h3>
 
-- 🌱 I’m currently learning **Node.js, Express and MongoDB**
+- 🌱 I’m currently learning ** React, Node.js, Express and MongoDB**
 
 
 <p align="left">
